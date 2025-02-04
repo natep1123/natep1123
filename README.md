@@ -18,8 +18,8 @@ Welcome to my GitHub profile!
 ### [Pong](https://github.com/natep1123/Pong)
 
 **Favorite Project**  
-_Why?_  
-One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development.
+**_Why?_** 
+_One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development._
 
 - **Summary:**  
   Classic Pong game built in React with Vite. Features dynamic gameplay, smooth animations, and dynamic velocity changes for an engaging user experience, as well as score tracking. Plans to integrate paddles, game logic, and a database for user high scores.
