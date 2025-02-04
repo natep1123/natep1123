@@ -3,15 +3,16 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m nearly graduated from Springboard's Software Engineering Career Track
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking for full-stack development opportunities
-- 💬 Ask me about my Pong game!
-- 📫 How to reach me:
+- I’m nearly graduated from Springboard's Software Engineering Career Track
+- I’m currently learning React.js
+- I’m looking for full-stack development opportunities
+- How to reach me:
     - **Email:** [natehaniel.perry1123@gmail.com](mailto:natehaniel.perry1123@gmail.com)
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [fun fact about you]
+- Fun fact: [fun fact about you]
+
+## My Favorite Project
+Check out my favorite project: [Pong](https://github.com/natep1123/Pong)
 
 ## My GitHub Stats
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)
