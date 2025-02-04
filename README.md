@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
     - **Email:** [natehaniel.perry1123@gmail.com](mailto:natehaniel.perry1123@gmail.com)
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 - Fun fact:
-    - I am the proud author of a book of poetry [The Weight of Quiet Things](https://a.co/d/0tqders) published on Amazon
+    - I am the proud author of a book of poetry ["The Weight of Quiet Things"](https://a.co/d/0tqders) published on Amazon
 
 
 ## My Favorite Project
