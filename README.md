@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nate! 👋
 
-<!--
-**natep1123/natep1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on [project name]
+- 🌱 I’m currently learning [technology or skill]
+- 👯 I’m looking to collaborate on [project or idea]
+- 🤔 I’m looking for help with [topic or project]
+- 💬 Ask me about [topics]
+- 📫 How to reach me: [email or social media]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [fun fact about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+
