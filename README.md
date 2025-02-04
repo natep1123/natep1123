@@ -11,7 +11,8 @@ Welcome to my GitHub profile!
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 - Favorite Project:
     - [Pong](https://github.com/natep1123/Pong)  
-    - **Why?** _One of my first React projects, Pong pushed me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball's movement come together furthered my passion for software development._
+    - **Why?**
+      _One of my first React projects, Pong pushed me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball's movement come together furthered my passion for software development._
 - Fun Fact:
     - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
 
