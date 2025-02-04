@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for full-stack development opportunities
 - 💬 Ask me about my Pong game!
-- 📫 How to reach me: **email:** natehaniel.perry1123@gmail.com and/or **LinkedIn:** www.linkedin.com/in/nathaniel-perry-646bb4326
+- 📫 How to reach me:
+    - **Email:** [natehaniel.perry1123@gmail.com](mailto:natehaniel.perry1123@gmail.com)
+    - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [fun fact about you]
 
@@ -18,5 +20,6 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
+
 
