@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 - Fun fact:
     - I am the proud author of a book of poetry: "The Weight of Quiet Things"
-    - **Amazon:** (https://a.co/d/0tqders)
+    - **Amazon:** [The Weight of Quiet Things](https://a.co/d/0tqders)
 
 
 ## My Favorite Project
