@@ -19,5 +19,5 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/nathaniel-perry-646bb4326)
 
