@@ -14,8 +14,8 @@ Welcome to my GitHub profile!
     - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
 
 ## Portfolio Projects:
-- [Pong](https://github.com/natep1123/Pong)
-    - **Favorite Project**
+- [Pong](https://github.com/natep1123/Pong) ---
+  _Favorite Project_
     - **Why?** _One of my first React projects, Pong pushed me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball's movement come together furthered my passion for software development._
     - **Summary:** Classic Pong game built in React with Vite. Includes dynamic gameplay, smooth animations, dynamic velocity changes for user experience and score tracking. Soon to integrate paddles and corresponding game logic, as well as a database for user high scores.
 - [Cryptify](https://github.com/natep1123/Cryptify)
