@@ -13,13 +13,23 @@ Welcome to my GitHub profile!
 - Fun Fact:
     - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
 
-## Portfolio Projects:
-- [Pong](https://github.com/natep1123/Pong) ---
-  _Favorite Project_
-    - **Why?** _One of my first React projects, Pong pushed me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball's movement come together furthered my passion for software development._
-    - **Summary:** Classic Pong game built in React with Vite. Includes dynamic gameplay, smooth animations, dynamic velocity changes for user experience and score tracking. Soon to integrate paddles and corresponding game logic, as well as a database for user high scores.
-- [Cryptify](https://github.com/natep1123/Cryptify)
-    - **Summary:** Encryption/decryption tool using custom letter-shift algorithm built with HTML, CSS and JavaScript. Includes a sleek, modern UI and dynamic text-animations using asynchronous JavaScript logic.
+## Portfolio Projects
+
+### [Pong](https://github.com/natep1123/Pong)
+
+**Favorite Project**  
+_Why?_  
+One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development.
+
+- **Summary:**  
+  Classic Pong game built in React with Vite. Features dynamic gameplay, smooth animations, and dynamic velocity changes for an engaging user experience, as well as score tracking. Plans to integrate paddles, game logic, and a database for user high scores.
+
+### [Cryptify](https://github.com/natep1123/Cryptify)
+
+- **Summary:**  
+  A custom encryption/decryption tool using a letter-shift algorithm, built with HTML, CSS, and JavaScript. The tool features a sleek, modern UI and dynamic text animations using asynchronous JavaScript logic.
+
+
 
 ## My GitHub Stats
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)
@@ -27,7 +37,5 @@ Welcome to my GitHub profile!
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 
 
