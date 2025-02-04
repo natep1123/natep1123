@@ -3,12 +3,11 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently working on [project name]
-- 🌱 I’m currently learning [technology or skill]
-- 👯 I’m looking to collaborate on [project or idea]
-- 🤔 I’m looking for help with [topic or project]
-- 💬 Ask me about [topics]
-- 📫 How to reach me: [email or social media]
+- 🔭 I’m nearly graduated from Springboard's Software Engineering Career Track
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking for full-stack development opportunities
+- 💬 Ask me about my Pong game!
+- 📫 How to reach me: **email:** natehaniel.perry1123@gmail.com and/or **LinkedIn:** www.linkedin.com/in/nathaniel-perry-646bb4326
 - 😄 Pronouns: [your pronouns]
 - ⚡ Fun fact: [fun fact about you]
 
@@ -19,5 +18,5 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/nathaniel-perry-646bb4326)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]()
 
