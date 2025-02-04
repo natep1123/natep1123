@@ -3,7 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- I’m nearly graduated from Springboard's Software Engineering Career Track.
+- I’m nearly graduated from Springboard's Software Engineering Career Track _(expected: April 2025, latest July 2025)_.
+- I am an aspiring full-stack developer using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 - I’m currently learning React.js.
 - I’m looking for full-stack development opportunities.
 - How to reach me:
