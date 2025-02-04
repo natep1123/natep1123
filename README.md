@@ -10,8 +10,6 @@ Welcome to my GitHub profile!
     - **Email:** [natehaniel.perry1123@gmail.com](mailto:natehaniel.perry1123@gmail.com)
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
 - Favorite Project:
-    - [Pong](https://github.com/natep1123/Pong)
-    - **Why?** - **Favorite Project:**  
     - [Pong](https://github.com/natep1123/Pong)  
     - **Why?** One of my first React projects, Pong pushed me to refine animations while deepening my understanding of state     management. Writing collision logic was surprisingly fun, and seeing seeing the ball’s movement come together furthered      my passion for software development.
 - Fun Fact:
