@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
     - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
 
 ## Portfolio Projects:
-- 
+- //
 - //
 - //
 
