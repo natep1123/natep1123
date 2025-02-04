@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - Fun Fact:
     - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
 
-## Portfolio Projects
+## Sample Portfolio Projects
 
 ### [Pong](https://github.com/natep1123/Pong)
 
