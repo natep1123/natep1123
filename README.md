@@ -9,7 +9,10 @@ Welcome to my GitHub profile!
 - How to reach me:
     - **Email:** [natehaniel.perry1123@gmail.com](mailto:natehaniel.perry1123@gmail.com)
     - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
-- Fun fact: [fun fact about you]
+- Fun fact:
+    - I am the author of the poetry book "The Weight of Quiet Things"
+    - [![Buy on Amazon](https://img.shields.io/badge/Buy_on-Amazon-FF9900?logo=amazon)](https://a.co/d/0tqders)
+
 
 ## My Favorite Project
 Check out my favorite project: [Pong](https://github.com/natep1123/Pong)
