@@ -15,8 +15,7 @@ Welcome to my GitHub profile!
 ### Contact Me  
 - **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**  
 - **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**  
-
-**Let’s Connect!** _Whether you have feedback, collaboration ideas, or just want to say hi— I’m eager to connect!_
+- **Let’s Connect!** _Whether you have feedback, collaboration ideas, or just want to say hi— I’m eager to connect!_
 
 ### Fun Fact
 - Proud author of **["The Weight of Quiet Things"](https://a.co/d/0tqders)**, a poetry book available on Amazon.  
