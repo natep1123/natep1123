@@ -30,10 +30,10 @@ Welcome to my GitHub profile! 🚀
 ✨ **Why?**  
 _One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development._  
 
-#### **Summary:**  
+**Summary:**  
 - Classic Pong game built in React with Vite.
 - _In progress_
-#### **Features**:  
+**Features:**  
 - Dynamic gameplay & smooth animations  
 - Score tracking  
 - Plans to integrate paddles, game logic, and a database for high scores  
