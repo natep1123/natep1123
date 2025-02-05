@@ -33,6 +33,7 @@ _One of my first React projects, Pong challenged me to refine animations while d
 **Summary:**  
 - Classic Pong game built in React with Vite.
 - _In progress_
+
 **Features:**  
 - Dynamic gameplay & smooth animations  
 - Score tracking  
@@ -40,9 +41,10 @@ _One of my first React projects, Pong challenged me to refine animations while d
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
 
-#### Summary:  
+**Summary:**
 - A custom encryption/decryption tool using a **letter-shift algorithm**, built with HTML, CSS, and JavaScript.
-#### Features 
+  
+**Features:**
 - Sleek, modern UI  
 - Dynamic text animations  
 - Asynchronous JavaScript logic  
