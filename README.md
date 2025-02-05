@@ -13,8 +13,8 @@ Welcome to my GitHub profile!
 - Open-source projects to contribute to  
 
 ### Contact Me  
-**[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**  
-**[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**  
+- **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**  
+- **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**  
 
 **Let’s Connect!** Whether you have feedback, collaboration ideas, or just want to say hi— I’m eager to connect!  
 
