@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 - **Summary:**  
   Classic Pong game built in React with Vite. Features dynamic gameplay, smooth animations, and dynamic velocity changes for an engaging user experience, as well as score tracking. Plans to integrate paddles, game logic, and a database for user high scores.
 
-### [Cryptify](https://github.com/natep1123/Cryptify)
+### [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
 
 - **Summary:**  
   A custom encryption/decryption tool using a letter-shift algorithm, built with HTML, CSS, and JavaScript. The tool features a sleek, modern UI and dynamic text animations using asynchronous JavaScript logic.
