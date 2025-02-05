@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 - **Summary:**  
   A custom encryption/decryption tool using a letter-shift algorithm, built with HTML, CSS, and JavaScript. The tool features a sleek, modern UI and dynamic text animations using asynchronous JavaScript logic.
 
-
+_View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
 ## My GitHub Stats
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)
