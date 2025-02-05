@@ -30,23 +30,23 @@ Welcome to my GitHub profile! 🚀
 ✨ **Why?**  
 _One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development._  
 
-- **Summary:**  
-  Classic Pong game built in React with Vite. Features:  
-  - Dynamic gameplay & smooth animations  
-  - Score tracking  
-  - Plans to integrate paddles, game logic, and a database for high scores  
+#### **Summary:**  
+- Classic Pong game built in React with Vite.
+#### **Features**:  
+- Dynamic gameplay & smooth animations  
+- Score tracking  
+- Plans to integrate paddles, game logic, and a database for high scores  
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
 
-- **Summary:**  
-  A custom encryption/decryption tool using a **letter-shift algorithm**, built with HTML, CSS, and JavaScript.  
-  - Sleek, modern UI  
-  - Dynamic text animations  
-  - Asynchronous JavaScript logic  
+#### Summary:  
+- A custom encryption/decryption tool using a **letter-shift algorithm**, built with HTML, CSS, and JavaScript.
+#### Features 
+- Sleek, modern UI  
+- Dynamic text animations  
+- Asynchronous JavaScript logic  
 
 🔗 _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_  
-
----
 
 ## 📊 My GitHub Stats  
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)  
