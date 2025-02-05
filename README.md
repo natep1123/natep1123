@@ -32,6 +32,7 @@ _One of my first React projects, Pong challenged me to refine animations while d
 
 #### **Summary:**  
 - Classic Pong game built in React with Vite.
+- _In progress_
 #### **Features**:  
 - Dynamic gameplay & smooth animations  
 - Score tracking  
