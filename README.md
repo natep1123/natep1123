@@ -2,16 +2,24 @@
 
 Welcome to my GitHub profile!
 
-## About Me
-- I’m nearly graduated from Springboard's Software Engineering Career Track _(expected: April 2025, latest July 2025)_.
-- I am an aspiring full-stack developer using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- I’m currently expanding my skills with React.js.
-- I’m looking for full-stack development opportunities.
-- How to reach me:
-    - **Email:** [nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)
-    - **LinkedIn:** [Nathaniel Perry](https://www.linkedin.com/in/nathaniel-perry-646bb4326)
-- Fun Fact:
-    - Proud author of the poetry book ["The Weight of Quiet Things"](https://a.co/d/0tqders), available on Amazon.
+## About Me  
+
+**Software Engineering Student** at Springboard _(Graduating: April–July 2025)_  
+**Aspiring Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+**Currently Learning:** Advanced React.js  
+
+### Looking For  
+- Full-stack development opportunities  
+- Open-source projects to contribute to  
+
+### Contact Me  
+**[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**  
+**[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**  
+
+**Let’s Connect!** Whether you have feedback, collaboration ideas, or just want to say hi— I’m eager to connect!  
+
+### Fun Fact
+Proud author of **["The Weight of Quiet Things"](https://a.co/d/0tqders)**, a poetry book available on Amazon.  
 
 ## Sample Portfolio Projects
 
