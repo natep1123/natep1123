@@ -49,7 +49,7 @@ _One of my first React projects, Pong challenged me to refine animations while d
 - Dynamic text animations  
 - Asynchronous JavaScript logic  
 
-🔗 _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_  
+### 🔗 _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_  
 
 ## 📊 My GitHub Stats  
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natep1123&show_icons=true&theme=radical)  
