@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 - **Let’s Connect!** _Whether you have feedback, collaboration ideas, or just want to say hi— I’m eager to connect!_
 
 ### Fun Fact
-- Proud author of **["The Weight of Quiet Things"](https://a.co/d/0tqders)**, a poetry book available on Amazon.  
+- Proud author of **["The Weight of Quiet Things"](https://a.co/d/0tqders)**, a book of poetry available on Amazon.  
 
 ## Sample Portfolio Projects
 
