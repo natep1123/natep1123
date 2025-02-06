@@ -36,8 +36,8 @@ _One of my first React projects, Pong challenged me to refine animations while d
 
 **Features:**  
 - Dynamic gameplay & smooth animations  
-- Score tracking  
-- Plans to integrate paddles, game logic, and a database for high scores  
+- Start screen animation, dynamic ball movement, score tracking and "Game Over" screen (currently accessible via "End Game" button)
+- Plans to integrate paddles, game logic for user-play, and a database for storing high scores
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
 
@@ -45,7 +45,8 @@ _One of my first React projects, Pong challenged me to refine animations while d
 - A custom encryption/decryption tool using a **letter-shift algorithm**, built with HTML, CSS, and JavaScript.
   
 **Features:**
-- Sleek, modern UI  
+- Sleek, modern UI
+- TODO 
 - Dynamic text animations  
 - Asynchronous JavaScript logic  
 
