@@ -23,7 +23,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🛠 Sample Portfolio Projects  
 
-### [Pong](https://github.com/natep1123/Pong)  
+### 🎮[Pong](https://github.com/natep1123/Pong)  
 
 🏆 **Favorite Project**  
 ✨ **Why?**  
@@ -39,7 +39,7 @@ Classic Pong game built in React.js. (_In progress_)
 - Start screen animation, dynamic ball movement, score tracking and "Game Over" screen (currently accessible via "End Game" button)
 - Plans to integrate paddles, game logic for user-play, and a database for storing high scores
 
-### [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
+### 🔒[Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
 
 **Summary:**  
 
