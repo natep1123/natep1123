@@ -31,7 +31,6 @@ Welcome to my GitHub profile! 🚀
 _One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development._  
 
 **Summary:**  
-
 Classic Pong game built in React.js. (_In progress_)
 
 **Features:**  
@@ -42,8 +41,7 @@ Classic Pong game built in React.js. (_In progress_)
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)  
 
-**Summary:**
-
+**Summary:**  
 A custom encryption/decryption tool using a robust letter-shift algorithm, built with HTML, CSS, and JavaScript.
   
 **Features:**
