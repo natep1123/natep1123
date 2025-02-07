@@ -57,7 +57,3 @@ A custom encryption/decryption tool using a robust letter-shift algorithm, built
 
 ## 🔥 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natep1123&theme=radical&layout=compact)  
-
-
-
-
