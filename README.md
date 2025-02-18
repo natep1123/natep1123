@@ -7,11 +7,11 @@ Welcome to my GitHub profile! 🚀
 - **Aspiring Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
 ### Currently Learning
-- **Databases**: Mastering PostgreSQL (SQL querying, joins, data modeling) and MongoDB (NoSQL operations, document management).
+- **Databases:** Mastering PostgreSQL (SQL querying, joins, data modeling) and MongoDB (NoSQL operations, document management).
 
-- **Backend Development**: Building robust APIs with Node.js and Express.js, focusing on RESTful principles, middleware, and authentication.
+- **Backend Development:** Building robust APIs with Node.js and Express.js, focusing on RESTful principles, middleware, and authentication.
 
-- **Full-Stack Integration**: Exploring Next.js for server-side rendering, GraphQL for API querying, and TypeScript for type-safe React development.
+- **Full-Stack Integration:** Exploring Next.js for server-side rendering, GraphQL for API querying, and TypeScript for type-safe React development.
 
 ### 🔍 Looking For  
 - Full-stack development opportunities  
