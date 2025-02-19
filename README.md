@@ -38,12 +38,14 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
 
 ### 🪐 Space Travel
 
-<table style="gap: 10px">
+<table>
   <tr>
     <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" style="width: 100%; max-width: 500px;" /></td>
     <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" style="width: 100%; max-width: 500px;" /></td>
     <td style="padding: 10px;"><img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" style="width: 100%; max-width: 500px;" /></td>
   </tr>
+    <tr><td style="padding: 10px;"><img src="https://drive.google.com/file/d/12nCMP18z7nk5Z1Kx7lVYqdQmbdhkeleN" alt="Build Spacecraft Form" style="width: 100%; max-width: 500px;" /></td>
+    </tr>
 </table>
 
 [Watch the demo video here](https://drive.google.com/file/d/1tfC6vW2x2j1bXtO4CFDQHUlXoQ2jF3DC/view?usp=sharing)
