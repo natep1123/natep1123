@@ -51,9 +51,6 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
     <td style="padding: 10px;">
       <img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" width="500px" />
     </td>
-    <td>
-      <!-- Add another image here if you have a fourth one -->
-    </td>
   </tr>
 </table>
 
