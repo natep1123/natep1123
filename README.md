@@ -75,8 +75,9 @@ This project deepened my understanding of **state management** and **routing** i
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
 
-<img src="https://drive.google.com/uc?export=view&id=1TpXQ6xmEiJO9nEEf5oZzPz1hZEg5SmSC" alt="Cipher Encyrpt (on load)" style="height: 450px; width: 350px"/>
-<img src="https://drive.google.com/uc?export=view&id=1FJaPJO5BbIwCqlUkN6stxYqk0lPRZ3NS" alt="Cipher Encrypt (active)" style="height: 450px; width: 350px"/>
+<img src="https://drive.google.com/uc?export=view&id=1TpXQ6xmEiJO9nEEf5oZzPz1hZEg5SmSC" alt="Cipher Encyrpt (on load)" style="height: 350px; width: 250px"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1FJaPJO5BbIwCqlUkN6stxYqk0lPRZ3NS" alt="Cipher Encrypt (active)" style="height: 350px; width: 250px"/>
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1ufQQWFktzuHCu78mM49wB1hEYVBSkeKw/view?usp=sharing)
 
