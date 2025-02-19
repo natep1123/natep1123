@@ -38,8 +38,6 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
 
 ### 🪐 Space Travel
 
-![Cipher Encrypt Screenshot](https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK)
-
 <img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" width="500px" />
 
 <img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" width="500px" />
@@ -77,7 +75,9 @@ This project deepened my understanding of **state management** and **routing** i
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
 
-![Cipher Encrypt Screenshot](https://drive.google.com/uc?export=view&id=1YOUR_FILE_ID)
+<img src="https://drive.google.com/uc?export=view&id=1TpXQ6xmEiJO9nEEf5oZzPz1hZEg5SmSC" alt="Cipher Encyrpt (on load)" />
+
+<img src="https://drive.google.com/uc?export=view&id=1FJaPJO5BbIwCqlUkN6stxYqk0lPRZ3NS" alt="Cipher Encrypt (active)" />
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1ufQQWFktzuHCu78mM49wB1hEYVBSkeKw/view?usp=sharing)
 
