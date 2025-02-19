@@ -36,9 +36,13 @@ Welcome to my GitHub profile! 🚀
 
 _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
----
-
 ### 🪐 Space Travel
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://drive.google.com/file/d/1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK/view?usp=drive_link" alt="Home Page" style="width: 30%;" />
+  <img src="https://drive.google.com/file/d/1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa/view?usp=drive_link" alt="Spacecrafts Page" style="width: 30%;" />
+  <img src="https://drive.google.com/file/d/1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q/view?usp=drive_link" alt="Planets Page" style="width: 30%;" />
+</div>
 
 [Watch the demo video here](https://drive.google.com/file/d/1tfC6vW2x2j1bXtO4CFDQHUlXoQ2jF3DC/view?usp=sharing)
 
@@ -70,6 +74,8 @@ This project deepened my understanding of **state management** and **routing** i
 ---
 
 ### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
+
+![Cipher Encrypt Screenshot](https://drive.google.com/uc?export=view&id=1YOUR_FILE_ID)
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1ufQQWFktzuHCu78mM49wB1hEYVBSkeKw/view?usp=sharing)
 
