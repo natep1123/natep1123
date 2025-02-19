@@ -71,7 +71,7 @@ A React app for managing spacecraft and planets using **Context API** and **Reac
 
 **Why It Stands Out:**
 
-This project deepened my understanding of **state management** and **routing** in React. Implementing the Context API for global state and handling dynamic updates to planet populations was both challenging and rewarding. The app also features a clean, user-friendly interface with smooth transitions and error handling, making it a robust and scalable solution.
+This project deepened my understanding of **state management** and **routing** in React. Implementing the Context API for global state and handling dynamic updates to planet populations was both challenging and rewarding. The app also features a clean, user-friendly interface with smooth transitions and error handling, making it robust and scalable..
 
 **Tech Stack:**
 
@@ -112,7 +112,7 @@ A custom encryption/decryption tool built with **HTML, CSS, and JavaScript**. It
 - **Flexible Shift Values**: Supports shift values between 1 and 144 for varied encryption results.
 
 **Why It Stands Out:**  
-This project honed my skills in **algorithmic problem-solving**, **DOM manipulation**, and **asynchronous programming**. Implementing the custom encryption algorithm and dynamic animations was both challenging and rewarding, showcasing my ability to create interactive and functional web applications.
+This project honed my skills in **algorithmic problem-solving**, **DOM manipulation**, and **asynchronous programming**. Implementing the custom encryption algorithm and dynamic animations was fun and challenging, showcasing my ability to create interactive and functional web applications.
 
 **Tech Stack:**
 
