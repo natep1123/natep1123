@@ -39,14 +39,14 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
 ### 🪐 Space Travel
 
 <table>
-  <tr >
-    <td><img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" style="width: 100%; max-width: 500px;" /></td>
+  <tr>
+    <td style="padding-bottom: 20px;"><img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" style="width: 100%; max-width: 300px;" /></td>
   </tr>
-  <tr >
-    <td><img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" style="width: 100%; max-width: 500px;" /></td>
+  <tr>
+    <td style="padding-bottom: 20px;"><img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" style="width: 100%; max-width: 300px;" /></td>
   </tr>
-  <tr >
-    <td><img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" style="width: 100%; max-width: 500px;" /></td>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" style="width: 100%; max-width: 300px;" /></td>
   </tr>
 </table>
 
