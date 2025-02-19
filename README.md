@@ -143,6 +143,8 @@ This project honed my skills in **algorithmic problem-solving**, **DOM manipulat
   </tr>
 </table>
 
+[Click here to watch the demo video](https://drive.google.com/file/d/1g_6Vl6GvapNK7SHdZ1wttoHfsBQFVKOP/view?usp=drive_link)
+
 **Summary:**
 
 A classic Pong game built in **React.js**, featuring dynamic animations, interactive gameplay, and a responsive UI. The game includes a start screen, loading countdown, game field, and game-over screen, with plans to integrate paddle controls and a database for high scores.
