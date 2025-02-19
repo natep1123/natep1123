@@ -122,8 +122,9 @@ This project honed my skills in **algorithmic problem-solving**, **DOM manipulat
 
 ---
 
-### 🎮 [Pong](https://github.com/natep1123/Pong) 
-_*In progress*_
+### 🎮 [Pong](https://github.com/natep1123/Pong)
+
+_(In progress)_
 
 <table>
   <tr>
