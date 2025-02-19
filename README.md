@@ -38,8 +38,6 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
 
 ### 🪐 Space Travel
 
-**Demo:**
-
 [Watch the demo video here](https://drive.google.com/file/d/1tfC6vW2x2j1bXtO4CFDQHUlXoQ2jF3DC/view?usp=sharing)
 
 **Summary:**
@@ -67,9 +65,9 @@ This project deepened my understanding of **state management** and **routing** i
 - JavaScript (ES6+)
 - HTML5 & CSS3
 
-### 🔒 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
+---
 
-**Demo:**
+### 🔒 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1ufQQWFktzuHCu78mM49wB1hEYVBSkeKw/view?usp=sharing)
 
@@ -86,8 +84,6 @@ A custom encryption/decryption tool using a robust letter-shift algorithm, built
 ---
 
 ### 🎮 [Pong](https://github.com/natep1123/Pong)
-
-**Demo:**
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1g_6Vl6GvapNK7SHdZ1wttoHfsBQFVKOP/view?usp=drive_link)
 
