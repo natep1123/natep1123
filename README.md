@@ -40,11 +40,11 @@ _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio
 
 ### 🪐 Space Travel
 
-<div style="width: 100%; text-align: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" width="500" />
-    <img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" width="500" />
-    <img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" width="500" />
-</div>
+<img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" />
+
+<img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" />
+
+<img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" />
 
 [Watch the demo video here](https://drive.google.com/file/d/1tfC6vW2x2j1bXtO4CFDQHUlXoQ2jF3DC/view?usp=sharing)
 
