@@ -67,19 +67,31 @@ This project deepened my understanding of **state management** and **routing** i
 
 ---
 
-### 🔒 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
+### 🔐 [Cipher Encrypt](https://github.com/natep1123/Cipher-Encrypt)
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1ufQQWFktzuHCu78mM49wB1hEYVBSkeKw/view?usp=sharing)
 
 **Summary:**
 
-A custom encryption/decryption tool using a robust letter-shift algorithm, built with HTML, CSS, and JavaScript.
+A custom encryption/decryption tool built with **HTML, CSS, and JavaScript**. It uses a unique letter-shift algorithm to encrypt and decrypt messages, complete with dynamic animations and a sleek, modern UI.
 
 **Features:**
 
-- Sleek, modern UI
-- Custom letter-shift algorithm
-- Dynamic text animations
+- **Custom Letter-Shift Algorithm**: Encrypts and decrypts messages using a robust up/down shifting method with random letter insertions.
+- **Interactive UI**: Input a message and shift value (1-144), then watch the encryption animation in action.
+- **Dynamic Text Animations**: Engaging animations for the title and buttons during encryption/decryption processes.
+- **Modular Design**: Built with a clear separation of concerns for maintainability and scalability.
+- **Handles Non-Letters**: Preserves non-alphabetic characters (e.g., punctuation) during encryption/decryption.
+- **Flexible Shift Values**: Supports shift values between 1 and 144 for varied encryption results.
+
+**Why It Stands Out:**  
+This project honed my skills in **algorithmic problem-solving**, **DOM manipulation**, and **asynchronous programming**. Implementing the custom encryption algorithm and dynamic animations was both challenging and rewarding, showcasing my ability to create interactive and functional web applications.
+
+**Tech Stack:**
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
 ---
 
@@ -89,17 +101,24 @@ A custom encryption/decryption tool using a robust letter-shift algorithm, built
 
 **Summary:**
 
-Classic Pong game built in React.js. (_In progress_)
+A classic Pong game built in **React.js**, featuring dynamic animations, interactive gameplay, and a responsive UI. The game includes a start screen, loading countdown, game field, and game-over screen, with plans to integrate paddle controls and a database for high scores.
 
 **Features:**
 
-- Dynamic gameplay & smooth animations
-- Clean, polished UI
-- Start screen animation, dynamic ball movement, score tracking and "Game Over" screen (currently accessible via "End Game" button)
-- Plans to integrate paddles, game logic for user-play, and a database for storing high scores
+- **Dynamic Gameplay**: Smooth animations with variable ball velocity and score tracking.
+- **Interactive UI**: Start screen, loading countdown, and game-over screen with restart options.
+- **Collision Detection**: Realistic ball physics with wall and paddle (future) collision logic.
+- **Score Tracking**: Tracks scores and increases difficulty as the game progresses.
+- **Future Plans**: Integration of paddle controls, game logic for user-play, and a database for storing high scores.
 
-🏆 **Favorite Project**  
-_One of my first React projects, Pong challenged me to refine animations while deepening my understanding of state management. Writing collision logic was surprisingly fun, and seeing the ball’s movement come together furthered my passion for software development. I am eager to return to this project and complete the game logic and integrate the backend sometime post graduation._
+**Why It Stands Out:**  
+This project was one of my first experiences with **React.js** and challenged me to refine animations while deepening my understanding of **state management** and **component-based design**. Writing collision logic and seeing the ball’s movement come together furthered my passion for software development. I’m excited to return to this project post-graduation to complete the game logic and integrate a backend.
+
+**Tech Stack:**
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
 
 ---
 
