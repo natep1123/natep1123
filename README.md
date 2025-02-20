@@ -1,5 +1,7 @@
 # Hi there, I'm Nate! 👋
 
+HI MOM!
+
 Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
