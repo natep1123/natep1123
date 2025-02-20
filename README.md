@@ -71,7 +71,7 @@ A React app for managing spacecraft and planets using **Context API** and **Reac
 
 **Why It Stands Out:**
 
-This project deepened my understanding of **state management** and **routing** in React. Implementing the Context API for global state and handling dynamic updates to planet populations was both challenging and rewarding. The app also features a clean, user-friendly interface with smooth transitions and error handling, making it robust and scalable..
+This project deepened my understanding of **state management** and **routing** in React. Implementing the Context API for global state and handling dynamic updates to planet populations was both challenging and rewarding. The app also features a clean, user-friendly interface with smooth transitions and error handling, making it robust and scalable.
 
 **Tech Stack:**
 
