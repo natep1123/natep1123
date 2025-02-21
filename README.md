@@ -36,6 +36,8 @@ Welcome to my GitHub profile! 🚀
 
 _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
+---
+
 ### 🪐 Space Travel
 
 <table>
