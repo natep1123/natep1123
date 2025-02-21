@@ -34,7 +34,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🛠 Sample Portfolio Projects
 
-_View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
+#### _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
 ### 🪐 Space Travel
 
