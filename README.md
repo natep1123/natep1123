@@ -4,16 +4,14 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
 
-- **Software Engineering Student** at Springboard _(Graduating: April–May 2025)_
+- **Software Engineering Student** at Springboard _(Graduating April 2025, Accelerated)_
 - **Aspiring Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
 ### 🌱 Currently Learning
 
-- **Databases:** Mastering PostgreSQL (SQL querying, joins, data modeling) and MongoDB (NoSQL operations, document management).
-
-- **Backend Development:** Building robust APIs with Node.js and Express.js, focusing on RESTful principles, middleware, and authentication.
-
-- **Full-Stack Integration:** Exploring Next.js for server-side rendering, GraphQL for API querying, and TypeScript for type-safe React development.
+- **Databases**: PostgreSQL, MongoDB
+- **Backend**: Node.js, Express.js, RESTful APIs, Middleware, Authentication, Mocha/Chai
+- **Full-Stack**: Next.js, GraphQL, TypeScript, Deployment Strategies
 
 ### 🔍 Looking For
 
