@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀
 
 ### 🌱 Currently Learning
 
-- **Full-Stack Integration**: Next.js, GraphQL TypeScript, Deployment Strategies
+- **Full-Stack Integration**: Next.js, GraphQL, TypeScript, Deployment Strategies
 
 ### 🔍 Looking For
 
