@@ -4,12 +4,12 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
 
-- **Software Engineering Student** at Springboard _(Graduating April 2025, Accelerated)_
-- **Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- **Software Engineering Student** at Springboard _(Graduating April 2025)_
+- **Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js) + Next.js**
 
 ### 🌱 Currently Learning
 
-- **Full-Stack Integration**: Next.js, GraphQL, TypeScript, Deployment Strategies
+- **Next.js**: Refining my skills with [BounceBack!](https://github.com/natep1123/BounceBack), a single-player twist on Pong!
 
 ### 🔍 Looking For
 
