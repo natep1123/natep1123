@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nate!
+# Hi there, I'm Nate! 👋
 
 Welcome to my GitHub profile! 🚀
 
