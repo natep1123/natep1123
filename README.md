@@ -40,7 +40,7 @@ _[Click here to play!](https://bounceback-zeta.vercel.app/)_
       <img src="https://drive.google.com/uc?export=view&id=11PV-ociM1-M7oivNpbBqimppa6gSoll6" alt="Start Screen" width="500px" />
     </td>
     <td style="padding: 10px;">
-      <img src="" alt="About the Game" width="500px" />
+      <img src="https://drive.google.com/uc?export=view&id=1SRNxpMGoKmbEObCDbucx68U7-Xfet8JV" alt="About the Game" width="500px" />
     </td>
   </tr>
   </table>
@@ -48,6 +48,14 @@ _[Click here to play!](https://bounceback-zeta.vercel.app/)_
 **Summary:**
 
 A full-stack ball-bounce game built in **Next.js** framework.It features dynamic animations, interactive gameplay, a responsive UI, profile creation, GitHub authentication, guest mode, highscore storage, a user leaderboard and an about page. 
+
+**Tech:**
+- NextAuth
+- Next.js
+- React.js
+- MongoDB, Mongoose
+- Axios
+- Bcryptjs
 
 ---
 
