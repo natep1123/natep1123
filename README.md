@@ -42,15 +42,7 @@ Welcome to my GitHub profile! 🚀
       <img src="https://drive.google.com/uc?export=view&id=1Vos0BpDOfvzknfCN15jpFVi6bxT_M_9C" alt="Gameplay" width="500px" />
     </td>
   </tr>
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://drive.google.com/uc?export=view&id=123fr5iKsECr_o28_CZj1ePtZiC4UU9Pt" alt="Dynamic Velocity Values" width="500px" />
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://drive.google.com/uc?export=view&id=1hO1X1AEMrTVH8NcIrMDJF7rBU6Ig_N26" alt="GameOver" width="500px" />
-    </td>
-  </tr>
-</table>
+  </table>
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1g_6Vl6GvapNK7SHdZ1wttoHfsBQFVKOP/view?usp=drive_link)
 
