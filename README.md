@@ -31,42 +31,23 @@ Welcome to my GitHub profile! 🚀
 
 #### _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
-### 🎮 [BounceBack!](https://bounceback-zeta.vercel.app/)
-_^Click to play!_
+### 🎮 BounceBack!
+_[Click here to play!](https://bounceback-zeta.vercel.app/)_
 
 <table>
   <tr>
     <td style="padding: 10px;">
-      <img src="https://drive.google.com/uc?export=view&id=15esx3HIMqiOalXXts_Ty3qfKSA_4-Nyp" alt="Start Screen" width="500px" />
+      <img src="https://drive.google.com/drive/folders/11PV-ociM1-M7oivNpbBqimppa6gSoll6?usp=drive_link" alt="Start Screen" width="500px" />
     </td>
     <td style="padding: 10px;">
-      <img src="https://drive.google.com/uc?export=view&id=1Vos0BpDOfvzknfCN15jpFVi6bxT_M_9C" alt="Gameplay" width="500px" />
+      <img src="" alt="About the Game" width="500px" />
     </td>
   </tr>
   </table>
 
-[Click here to watch the demo video](https://drive.google.com/file/d/1g_6Vl6GvapNK7SHdZ1wttoHfsBQFVKOP/view?usp=drive_link)
-
 **Summary:**
 
-A classic Pong game built in **React.js**, featuring dynamic animations, interactive gameplay, and a responsive UI. The game includes a start screen, loading countdown, game field, and game-over screen, with plans to integrate paddle controls and a database for high scores.
-
-**Features:**
-
-- **Dynamic Gameplay**: Smooth animations with variable ball velocity and score tracking.
-- **Interactive UI**: Start screen, loading countdown, and game-over screen with restart options.
-- **Collision Detection**: Realistic ball physics with wall and paddle (future) collision logic.
-- **Score Tracking**: Tracks scores and increases difficulty as the game progresses.
-- **Future Plans**: Integration of paddle controls, game logic for user-play, and a database for storing high scores.
-
-**Why It Stands Out:**  
-This project was one of my first experiences with **React.js** and challenged me to refine animations while deepening my understanding of **state management** and **component-based design**. Writing collision logic and seeing the ball’s movement come together furthered my passion for software development. I’m excited to return to this project post-graduation to complete the game logic and integrate a backend.
-
-**Tech Stack:**
-
-- React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3
+A full-stack ball-bounce game built in **Next.js** framework.It features dynamic animations, interactive gameplay, a responsive UI, profile creation, GitHub authentication, guest mode, highscore storage, a user leaderboard and an about page. 
 
 ---
 
