@@ -37,7 +37,7 @@ _[Click here to play!](https://bounceback-zeta.vercel.app/)_
 <table>
   <tr>
     <td style="padding: 10px;">
-      <img src="https://drive.google.com/drive/folders/11PV-ociM1-M7oivNpbBqimppa6gSoll6?usp=drive_link" alt="Start Screen" width="500px" />
+      <img src="https://drive.google.com/uc?export=view&id=11PV-ociM1-M7oivNpbBqimppa6gSoll6" alt="Start Screen" width="500px" />
     </td>
     <td style="padding: 10px;">
       <img src="" alt="About the Game" width="500px" />
