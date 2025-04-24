@@ -51,14 +51,14 @@ _[Click here to play!](https://bounceback-zeta.vercel.app/)_
 
 A full-stack ball-bounce game built in **Next.js** framework and deployed with Vercel. It features dynamic animations, interactive gameplay, a responsive UI, profile creation, GitHub authentication, guest mode, highscore storage, a user leaderboard and an about page. 
 
-**Tech:**
-- Next.js
-- NextAuth
-- React.js
-- MongoDB, Mongoose
-- Axios
-- Bcryptjs
-- Vercel Deployment
+**Tech Stack:**
+
+- **Frontend:** Next.js, React.js
+- **Authentication:** NextAuth (GitHub login support)
+- **Backend:** MongoDB, Mongoose
+- **API Requests:** Axios
+- **Password Hashing:** Bcryptjs
+- **Deployment:** Vercel
 
 ---
 
