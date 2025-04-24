@@ -17,9 +17,9 @@ Welcome to my GitHub profile! 🚀
 
 ### 📬 Contact Me
 
+- **Let’s Connect!** _Got feedback, collaboration ideas, or just want to say hi? I’d love to chat!_
 - **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**
-- **Let’s Connect!** _Got feedback, collaboration ideas, or just want to say hi? I’d love to chat!_
 
 ### 🎨 Fun Fact
 
