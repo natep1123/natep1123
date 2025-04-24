@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀
 
 ### 🌱 Currently Learning
 
-- **Next.js**: Refining my skills with [BounceBack!](https://bounceback-zeta.vercel.app/), a single-player twist on Pong!
+- **Next.js**: Refining my skills with [BounceBack!](https://github.com/natep1123/bounceback), a single-player twist on Pong!
 
 ### 🔍 Looking For
 
