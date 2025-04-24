@@ -1,4 +1,4 @@
-# Hi there, I'm Nate! 👋
+# 👋 Hi there, I'm Nate!
 
 Welcome to my GitHub profile! 🚀
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! 🚀
 
 #### _View my full portfolio here: [Portfolio](https://github.com/natep1123/Portfolio)_
 
-### 🎮 BounceBack!
+### 🏓 BounceBack!
 _[Click here to play!](https://bounceback-zeta.vercel.app/)_
 
 <table>
