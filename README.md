@@ -58,6 +58,7 @@ A full-stack ball-bounce game built in **Next.js** framework and deployed with V
 - MongoDB, Mongoose
 - Axios
 - Bcryptjs
+- Vercel Deployment
 
 ---
 
