@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
 
-- **Software Engineering Student** at Springboard _(Graduating April 2025)_
+- **Software Engineering Student** at Springboard _(Nearing Graduation)_
 - **Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js) + Next.js**
 
 ### 🌱 Currently Learning
