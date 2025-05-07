@@ -55,10 +55,7 @@ A full-stack ball-bounce game built in **Next.js** framework and deployed with V
 **Tech Stack:**
 
 - **Frontend:** Next.js, React.js
-- **Authentication:** NextAuth (GitHub login support)
 - **Backend:** MongoDB, Mongoose
-- **API Requests:** Axios
-- **Password Hashing:** Bcryptjs
 - **Deployment:** Vercel
 
 ---
