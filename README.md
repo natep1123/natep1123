@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
 
-- **Software Engineer** | Springboard Bootcamp Graduate
+- **Software Engineer** | Springboard's Software Engineering Career Track Bootcamp 
 - **Full-Stack Developer** | **MERN Stack (MongoDB, Express.js, React.js, Node.js) + Next.js**
 
 ### 🔍 Looking For
